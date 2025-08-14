@@ -1,0 +1,2 @@
+# BlinkMart
+A Shopping Platform
